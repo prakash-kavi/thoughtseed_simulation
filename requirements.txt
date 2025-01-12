@@ -1,0 +1,22 @@
+#File struture
+thoughtseed_simulation
+│   config.py
+│   main.py
+│   requirements.txt
+│
+├───higher_order_agents
+│       metacognition.py
+│
+├───knowledge_domains
+│       emotion_KD.py
+│       episodic_memory_KD.py
+│       spatial_navigation_KD.py
+│
+├───thoughtseed_sub_agents
+│       recalling_past_events_TS.py
+│       spatial_navigation_TS.py
+│
+└───utils
+        analysis.py
+        visualization.py
+
